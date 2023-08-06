@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/spit-fires)
+![](https://metrics.lecoq.io/spit-fires)
